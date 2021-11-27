@@ -59,6 +59,6 @@ print("my webserver is running...")
 
 
 ## OUTPUT:
-![output](https://github.com/RuchithaReddy28/Web_server.git?raw=true)
+![output](https://github.com/RuchithaReddy28/Web_server/blob/main/simple%20web%20server.PNG?raw=true)
 
 ## RESULT:
